@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+  <id>hosted_exchange</id>
+  <name>Hosted Exchange</name>
+  <description>Hosted exchange.</description>
+  <version>1.5</version>
+  <release>1</release>
+  <vendor>Plesk</vendor>
+  <plesk_min_version>11.0.1</plesk_min_version>
+</module>
